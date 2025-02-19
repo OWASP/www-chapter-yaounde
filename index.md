@@ -34,4 +34,3 @@ Please consider joining OWASP if you find our community, projects and meetings u
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
--->
