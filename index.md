@@ -27,7 +27,7 @@ Meetings
 ---------
 Owasp chapter meetings are organized by the chapter leaders using various speakers to discuss aspects of software security. In a friendly and fun setting, discussions are held by professionals on relevant and complex topics for the purpose of learning. These meetings can be face-to-face and/or virtual.
 
-These meetings are part of the OWASP foundation activities; they are open to the public, and you do not need to be a member to attend. These meetings are free of charge. To participate, simply visit our [Meetup page](/#).
+These meetings are part of the OWASP foundation activities; they are open to the public, and you do not need to be a member to attend. These meetings are free of charge. To participate, simply visit our [Meetup page](https://www.meetup.com/owasp-yaounde-chapter/).
 
 Please consider joining OWASP if you find our community, projects and meetings useful, or if you would like sponsor this chapter.
 
