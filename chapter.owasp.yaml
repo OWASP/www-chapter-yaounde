@@ -1,0 +1,28 @@
+leaders:
+  - name: Ernest Mougoue Djomani
+    email: ernest.mougoue@owasp.org
+    github: ernest-mougoue
+  - name: Valery Melou Gouegni
+    email: valery.melou@owasp.org
+    github: valerymelou
+  - name: Enzo Kamtchouang
+    email: enzo.kamtchouang@owasp.org
+  - name: Chi Mofor
+    email: chi.mofor@owasp.org
+location:
+  country: Cameroon
+  country_code: CM
+  region: Centre Region
+  city: Yaoundé
+  latitude: 3.8689867
+  longitude: 11.5213344
+name: OWASP Yaounde
+repositories:
+  - name: www-chapter-yaounde
+    url: https://github.com/OWASP/www-chapter-yaounde
+    description: OWASP Foundation web repository
+tags:
+  - Yaounde
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-yaounde
