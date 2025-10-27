@@ -15,4 +15,4 @@ You can find our upcoming events below.
 For more details on our future events please visit our [meetup group](https://www.meetup.com/owasp-yaounde-chapter/)
 
 
-{% include chapter_events.html group=page.meetup-group %}
+{% include chapter_events.html group=page.meetup-group %};
